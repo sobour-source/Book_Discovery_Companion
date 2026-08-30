@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Matilda's Wedding",
+    "authors": [
+      "Betty Neels"
+    ],
+    "publication_year": 2000,
+    "isbn": "9780373199518",
+    "page_count": 206,
+    "subjects": [
+      "Fiction, Romance, Contemporary",
+      "Marriage, fiction"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/id/2406795-M.jpg",
+    "status": "Want to Read"
+  },
+  {
+    "title": "Alive at work",
+    "authors": [
+      "Daniel M. Cable"
+    ],
+    "publication_year": 2018,
+    "isbn": "1633694259",
+    "page_count": 214,
+    "subjects": [
+      "Work environment",
+      "Employee motivation",
+      "Management",
+      "Interest (Psychology)",
+      "BUSINESS & ECONOMICS / Management",
+      "BUSINESS & ECONOMICS / Organizational Development",
+      "BUSINESS & ECONOMICS / Workplace Culture",
+      "PSYCHOLOGY / Cognitive Neuroscience & Cognitive Neuropsychology",
+      "Personnel",
+      "Motivation",
+      "Psychanalyse et neurosciences",
+      "BUSINESS & ECONOMICS",
+      "Organizational Development",
+      "Workplace Culture",
+      "PSYCHOLOGY",
+      "Cognitive Neuroscience & Cognitive Neuropsychology",
+      "Arbeitsmotivation",
+      "Arbeitszufriedenheit"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/id/8799503-M.jpg",
+    "status": "Want to Read"
+  }
+]
